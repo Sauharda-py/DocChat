@@ -1,0 +1,17 @@
+langchain
+langchain-groq
+dotenv
+streamlit
+langchain-community
+langgraph
+langchain-ollama
+pypdf
+beautifulsoup4
+wikipedia
+langchain-huggingface
+sentence-transformers
+langchain-chroma
+torch 
+torchvision 
+sentence-transformers 
+transformers
