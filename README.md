@@ -39,7 +39,7 @@ The application processes uploaded PDFs, splits their content into smaller chunk
 AGENTIC-RAG-PDF/
 │
 ├── data/
-│   └── docs/              # Uploaded PDFs (ignored by Git)
+│   └── docs/              # Uploaded PDFs
 │
 ├── pipeline.png           # System architecture flowchart
 ├── .env                   # API keys and environment variables
