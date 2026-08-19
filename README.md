@@ -58,7 +58,7 @@ Uploaded PDF files are stored in `data/docs/`. The directory is automatically cr
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AGENTIC-RAG-PDF.git
+git clone https://github.com/Sauharda-py/DocChat
 cd AGENTIC-RAG-PDF
 ```
 
